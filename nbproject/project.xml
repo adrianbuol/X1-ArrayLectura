@@ -18,7 +18,7 @@ limitations under the License.
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
-            <name>X1-Ahorcado</name>
+            <name>X1-ArrayLectura</name>
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
