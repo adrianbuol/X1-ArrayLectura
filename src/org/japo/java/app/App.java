@@ -47,7 +47,6 @@ public final class App {
                 }
             } while (lecturaOK);
         } catch (Exception e) {
-            System.out.println("No funsiona amigo");
         }
 
 //        System.out.println(LISTA_NOM[
